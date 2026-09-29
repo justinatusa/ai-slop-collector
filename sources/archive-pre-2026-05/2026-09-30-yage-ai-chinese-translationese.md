@@ -1,8 +1,9 @@
 ---
 title: 写作中的AI味是哪儿来的（yage.ai）
 source_url: https://yage.ai/share/ai-chinese-translationese-20260418.html
+source_date: 2026-04-18
+captured: 2026-09-30
 source_title: 写作中的AI味是哪儿来的
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [translationese, examples, blog]

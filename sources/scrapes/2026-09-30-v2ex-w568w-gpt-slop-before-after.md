@@ -1,8 +1,9 @@
 ---
 title: V2EX：减少 GPT 输出的「AI 味」（前后对照原文）
 source_url: https://www.v2ex.com/t/1235318
+source_date: 2026-08-18
+captured: 2026-09-30
 source_title: 分享一个减少 GPT 输出的「AI 味」的 Skill（纯手写）
-scraped: 2026-09-30
 lang: zh
 models: [gpt, chatgpt, gpt-5]
 tags: [v2ex, before-after, agent-jargon]

@@ -1,8 +1,9 @@
 ---
 title: 你写的文章？都是 ai 味（少数派·踏雪寻仙）— 含模型分腔
 source_url: https://sspai.com/post/106564
+source_date: 2026-02-24
+captured: 2026-09-30
 source_title: 你写的文章？都是 ai 味
-scraped: 2026-09-30
 lang: zh
 models: [gpt, chatgpt, claude, gemini, zh-slop]
 tags: [sspai, model-specific, examples]

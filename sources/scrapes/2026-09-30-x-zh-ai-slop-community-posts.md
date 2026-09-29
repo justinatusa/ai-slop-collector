@@ -1,8 +1,9 @@
 ---
 title: X（Twitter）中文「去 AI 味 / AI 套话」相关帖摘录
 source_url: https://x.com/search?q=AI%E5%A5%97%E8%AF%9D%20OR%20%E5%8E%BBAI%E5%91%B3
+source_date: 2026-09-20
+captured: 2026-09-30
 source_title: search_posts_all: AI套话 OR ChatGPT腔 OR Claude腔 OR 去AI味 lang:zh
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [x, community]

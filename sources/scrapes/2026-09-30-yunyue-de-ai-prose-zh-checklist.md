@@ -1,8 +1,9 @@
 ---
 title: YunyueLi/de-ai-prose-zh — 反AI腔自查清单（全文）
 source_url: https://github.com/YunyueLi/de-ai-prose-zh/blob/main/反AI腔自查清单.md
+source_date: 2026-06-24
+captured: 2026-09-30
 source_title: 反AI腔自查清单.md
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [fiction, checklist, not-x-but-y, github]

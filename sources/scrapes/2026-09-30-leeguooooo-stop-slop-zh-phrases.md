@@ -1,8 +1,9 @@
 ---
 title: leeguooooo/stop-slop-zh — 套话词汇黑名单（全文）
 source_url: https://github.com/leeguooooo/stop-slop-zh/blob/main/references/phrases.md
+source_date: 2026-06-02
+captured: 2026-09-30
 source_title: phrases.md
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [phrases, blacklist, github]

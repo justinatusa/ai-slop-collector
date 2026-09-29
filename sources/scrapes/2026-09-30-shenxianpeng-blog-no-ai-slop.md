@@ -1,8 +1,9 @@
 ---
 title: 用 no-ai-slop 去掉你文章里的 AI 味（沈显鹏博客）
 source_url: https://shenxianpeng.dev/zh-cn/posts/2026/no-ai-slop/
+source_date: 2026-07-22
+captured: 2026-09-30
 source_title: 用 no-ai-slop 去掉你文章里的 AI 味
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [blog, banned-words, patterns]

@@ -1,8 +1,9 @@
 ---
 title: kakawaa/cn-humanizer — 18种中文AI写作模式（全文）
 source_url: https://github.com/kakawaa/cn-humanizer/blob/main/references/cn-ai-patterns.md
+source_date: 2026-03-10
+captured: 2026-09-30
 source_title: cn-ai-patterns.md
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [patterns, github]

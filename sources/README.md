@@ -1,11 +1,9 @@
 # sources
 
-外部参考：去 AI 味文章、词表、相关仓库链接。
+外部参考：去 AI 味文章、词表、相关仓库链接。**平铺 verbatim**；按来源日新→旧见 INDEX。
 
-- **导航：** [INDEX.md](INDEX.md)（URL、标题、抓取日、文件路径）
-- **原文摘录：** `scrapes/YYYY-MM-DD-<slug>.md`（verbatim；可含 frontmatter 元数据）
+- **导航：** [INDEX.md](INDEX.md)（来源日、标题、模型、文件、原链接）
+- **原文摘录：** `scrapes/`（frontmatter 必含 `source_url`、`source_date`、`models`、`captured`）
+- **已剔除早期材料：** `archive-pre-2026-05/`（source_date &lt; 2026-05-01 的老泛用词表）
 
-已知相关：
-
-- https://github.com/shenxianpeng/no-ai-slop-zh （中文适配）
-- 英文原版线索：petergyang/no-ai-slop
+过滤线：主表默认不收 2026-05-01 之前的泛用来源；优先保留 Opus / gpt-5.x·Codex / GPT 5.6 Sol / Grok 相关材料。

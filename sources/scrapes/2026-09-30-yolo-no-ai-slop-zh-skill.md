@@ -1,8 +1,9 @@
 ---
 title: YOLOooooos/no-ai-slop-zh — SKILL.md（全文）
 source_url: https://github.com/YOLOooooos/no-ai-slop-zh/blob/main/SKILL.md
+source_date: 2026-07-24
+captured: 2026-09-30
 source_title: SKILL.md
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [skill, 30-patterns, github]

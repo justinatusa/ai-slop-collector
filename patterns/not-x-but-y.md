@@ -39,3 +39,8 @@ Justin 点名句式：**不是 而是**（2026-09-30）。
 > - "与其 X，不如 Y"
 > - "重要的不是 X，而是 Y"
 > - "真正的 X 不是 A，而是 B"
+
+来自 [gpt-5.x (codex) 中文口癖收集](../sources/scrapes/2026-03-16-gpt5x-codex-zh-verbal-tics.md)（废话连篇类，verbatim）：
+
+> 不是 而是
+

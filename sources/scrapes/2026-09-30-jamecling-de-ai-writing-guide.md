@@ -1,8 +1,9 @@
 ---
 title: 中文去 AI 味写作指南（jamecling）
 source_url: https://www.jamecling.com/archives/1175
+source_date: 2026-05-27
+captured: 2026-09-30
 source_title: 中文去 AI 味写作指南
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [guide, blacklist, blog]

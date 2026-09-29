@@ -1,8 +1,9 @@
 ---
 title: LifelongLazyLearner/qu-ai-wei — pattern-catalog（全文）
 source_url: https://github.com/LifelongLazyLearner/qu-ai-wei/blob/main/references/pattern-catalog.md
+source_date: 2026-08-12
+captured: 2026-09-30
 source_title: pattern-catalog.md
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [patterns, github, research-cited]

@@ -1,8 +1,9 @@
 ---
 title: shenxianpeng/no-ai-slop-zh — SKILL.md（全文）
 source_url: https://github.com/shenxianpeng/no-ai-slop-zh/blob/main/skills/no-ai-slop-zh/SKILL.md
+source_date: 2026-07-22
+captured: 2026-09-30
 source_title: SKILL.md
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [skill, banned-words, github]

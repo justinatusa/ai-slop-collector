@@ -1,9 +1,10 @@
 ---
 title: w568w/stop-slop-cn — Skill 全文（作者标 GPT 5.6 Sol）
 source_url: https://github.com/w568w/stop-slop-cn/blob/main/SKILL.md
+source_date: 2026-07-14
+captured: 2026-09-30
 source_title: SKILL.md
 related_url: https://www.v2ex.com/t/1235318
-scraped: 2026-09-30
 lang: zh
 models: [gpt, chatgpt, gpt-5]
 tags: [skill, not-x-but-y, agent-jargon, github]

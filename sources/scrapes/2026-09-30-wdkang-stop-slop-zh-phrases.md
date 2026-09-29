@@ -1,8 +1,9 @@
 ---
 title: wdkang123/stop-slop-zh — 可疑中文表达判断表（全文）
 source_url: https://github.com/wdkang123/stop-slop-zh/blob/main/references/phrases.zh.md
+source_date: 2026-05-29
+captured: 2026-09-30
 source_title: phrases.zh.md
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [phrases, report-jargon, github]

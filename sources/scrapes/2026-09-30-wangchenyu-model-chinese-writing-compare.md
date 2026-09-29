@@ -1,8 +1,9 @@
 ---
 title: 2026年AI写作工具实测：Claude/ChatGPT/文心/豆包中文对比
 source_url: https://www.wangchenyu.com/aitool/156004.html
+source_date: 2026-07-09
+captured: 2026-09-30
 source_title: 2026年AI写作工具实测：Claude、ChatGPT、文心一言、豆包，写中文谁更靠谱
-scraped: 2026-09-30
 lang: zh
 models: [claude, gpt, chatgpt, zh-slop]
 tags: [model-compare, blog]

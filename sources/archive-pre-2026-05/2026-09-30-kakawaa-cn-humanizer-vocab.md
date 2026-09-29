@@ -1,8 +1,9 @@
 ---
 title: kakawaa/cn-humanizer — 中文AI词汇表（全文摘录）
 source_url: https://github.com/kakawaa/cn-humanizer/blob/main/references/cn-ai-vocabulary.md
+source_date: 2026-03-10
+captured: 2026-09-30
 source_title: cn-ai-vocabulary.md
-scraped: 2026-09-30
 lang: zh
 models: [zh-slop, unattributed]
 tags: [vocab, blacklist, github]

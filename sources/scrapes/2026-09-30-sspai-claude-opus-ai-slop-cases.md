@@ -1,8 +1,9 @@
 ---
 title: AI + Skill，能够让生成的文章去除 AI 味吗？（少数派·Claude Opus 案例）
 source_url: https://sspai.com/post/109288
+source_date: 2026-04-30
+captured: 2026-09-30
 source_title: AI + Skill，能够让生成的文章去除 AI 味吗？
-scraped: 2026-09-30
 lang: zh
 models: [claude, anthropic, gpt, gemini]
 tags: [sspai, claude, examples, not-x-but-y]
