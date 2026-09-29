@@ -21,13 +21,7 @@ models: [claude, opus]   # 或 gpt / grok / zh-slop / unattributed 等
 3. 正文**平铺照抄**原文关键段落（可节选，标明节选）；不要二次改写、不要「润色」。
 4. 同一 `source_url` **不要**再建第二个文件。
 5. 更新 [`sources/INDEX.md`](sources/INDEX.md)：按 `source_date` **新 → 旧**插入一行。
-6. 若跨 scrape 重复出现的词/句式有变化，可顺手更新 [`patterns/DEDUPED.md`](patterns/DEDUPED.md)。
-
-## 日期规则
-
-- 主表默认只收 `source_date` **≥ 2026-05-01** 的材料。
-- 已知例外：linux.do [gpt-5.x (codex) 中文口癖收集](https://linux.do/t/topic/1768077)（2026-03-16）保留在主表。
-- 更早的泛用词表请放进 `sources/archive-pre-2026-05/`，并在 INDEX 的「已剔除」区登记。
+6. 若词句表有新增，可顺手更新根目录 [`SLOP.md`](SLOP.md)。
 
 ## 加一条 pattern / example
 

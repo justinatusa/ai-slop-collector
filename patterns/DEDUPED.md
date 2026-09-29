@@ -1,12 +1,12 @@
 ---
-title: Pattern dedup table (round 3)
+title: Pattern dedup table
 captured: 2026-09-30
-note: 合并各 scrape 重复出现的词/句式；各 scrape 原文文件仍保留不改写
+note: scrape 内词/句式出现次数；人眼扫词见 ../SLOP.md
 ---
 
-# DEDUPED — 跨 scrape 重复词/句式合并表
+# DEDUPED — 跨 scrape 词/句式计数（机器向）
 
-统计方式：在 `sources/scrapes/*.md` 内对下列模式做大小写不敏感计数（含文档说明文字，故计数偏高属正常）。**合并表可汇总；原文 scrape 不改写。**
+人眼扫词句请看根目录 [`SLOP.md`](../SLOP.md)。本表是 scrape 内出现次数统计（含说明文字，计数偏高属正常）。
 
 | 词 / 句式 | 出现次数 | 来源文件列表 | 模型标签 |
 |-----------|----------|--------------|----------|
@@ -52,4 +52,3 @@ note: 合并各 scrape 重复出现的词/句式；各 scrape 原文文件仍保
 | utilize | 3 | `2026-07-07-petergyang-no-ai-slop-skill.md`<br>`2026-08-13-ozigi-ai-words-banned-lexicon.md`<br>`2026-09-30-leeguooooo-stop-slop-zh-phrases.md` | `claude`, `gpt`, `unattributed`, `zh-slop` |
 | 补一刀 | 2 | `2026-03-16-gpt5x-codex-zh-verbal-tics.md`<br>`2026-09-13-shuorenhua-skill-zh.md` | `chatgpt`, `claude`, `gpt`, `gpt-5`, `gpt-5.x-codex`, `grok`, `opus`, `zh-slop` |
 
-> 模式条数：**41**；主表 scrape：**42**。

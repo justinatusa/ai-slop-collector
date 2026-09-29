@@ -19,13 +19,8 @@ source_note: 摘自本机 no-ai-slop-zh 技能清单，后续可增删
 - 收集仓里：见到就记一条 `examples/`，或在本文件下追加「出现场景」。
 - 去 AI 味时：优先删掉；若作者口语里偶尔用且句子仍有内容，再个案判断。
 
-
 ## 原文摘录（社区来源，verbatim）
 
 来自 [shenxianpeng 博客](../sources/scrapes/2026-09-30-shenxianpeng-blog-no-ai-slop.md)：
 
 > 赋能、抓手、底层逻辑、顶层设计、闭环、打法、拉通、对齐、颗粒度、赛道、护城河、降维打击……
-
-来自 [kakawaa 一级高频词](../sources/scrapes/2026-09-30-kakawaa-cn-humanizer-vocab.md)（表头词列照抄）：
-
-> 赋能、深耕、聚焦、助力、打造、引领、全方位、多维度、高质量、沉浸式、一站式、闭环、抓手、底层逻辑、顶层设计、新质生产力、降本增效、提质增效、数智化

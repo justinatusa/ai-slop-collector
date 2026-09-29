@@ -4,6 +4,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/justinatusa/ai-slop-collector?style=social)](https://github.com/justinatusa/ai-slop-collector/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/justinatusa/ai-slop-collector)](https://github.com/justinatusa/ai-slop-collector/commits/main)
 
+**→ 扫词句：[`SLOP.md`](SLOP.md)**（一页平铺全部句式与词语）
+
 收集「AI 味」写作痕迹的原文样本与可复用模式——给审稿、去味、对照用。  
 *A verbatim collector of AI-writing tells (Chinese-first).*
 
@@ -17,13 +19,13 @@
 
 | 路径 | 内容 |
 |------|------|
-| [`patterns/`](patterns/) | 可复用模式（词、句式）；跨来源合并见 [`patterns/DEDUPED.md`](patterns/DEDUPED.md) |
-| [`sources/scrapes/`](sources/scrapes/) | 外部原文 verbatim 平铺（一文一文件） |
-| [`sources/INDEX.md`](sources/INDEX.md) | **导航**：按来源日新→旧 |
-| [`sources/archive-pre-2026-05/`](sources/archive-pre-2026-05/) | 早于过滤线的材料 |
+| [`SLOP.md`](SLOP.md) | **主产品**：全部句式/词语一页平铺 |
+| [`patterns/`](patterns/) | 可复用模式条目；机器向合并表 [`DEDUPED.md`](patterns/DEDUPED.md) |
+| [`sources/scrapes/`](sources/scrapes/) | 外部原文 verbatim（一文一文件） |
+| [`sources/INDEX.md`](sources/INDEX.md) | scrape 导航（来源日新→旧） |
 | [`examples/`](examples/) | 整段坏样本 |
 
-覆盖重点包括：Claudeish / Claudish / Opus tells、ChatGPT / GPT-5.x·Codex 中文口癖、中文去 AI 味 skill、社区帖（X、LINUX DO 等）。
+覆盖：Claudeish / Claudish / Opus、ChatGPT / GPT-5.x·Codex 中文口癖、中文去 AI 味 skill、社区帖（X、LINUX DO 等）。
 
 ## 怎么贡献一条 scrape
 
@@ -31,15 +33,9 @@
 2. frontmatter 写清 `source_url`、`source_date`、`captured`、`models`。
 3. 正文**照抄**（可节选），不改写。
 4. 同一 URL 不重复建文件。
-5. 主表只收 `source_date` **≥ 2026-05-01**（已知例外：linux.do 2026-03-16 gpt-5.x 口癖帖）。
-6. 更新 [`sources/INDEX.md`](sources/INDEX.md)。
+5. 更新 [`sources/INDEX.md`](sources/INDEX.md)。
 
 更细的约定见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。
-
-## 从哪看起
-
-→ **[`sources/INDEX.md`](sources/INDEX.md)**（全部 scrape 导航）  
-→ **[`patterns/DEDUPED.md`](patterns/DEDUPED.md)**（跨 scrape 高频词/句式）
 
 ## 许可
 
