@@ -20,7 +20,7 @@
 
 | 路径 | 用途 |
 |------|------|
-| `patterns/` | 可复用模式（词、句式、结构） |
+| `patterns/` | 可复用模式（词、句式、结构）；跨 scrape 合并见 [`patterns/DEDUPED.md`](patterns/DEDUPED.md) |
 | `examples/` | 整段或整篇坏样本（可脱敏） |
 | `sources/scrapes/` | 外部原文 verbatim 平铺 |
 | `sources/INDEX.md` | 来源日新→旧导航表 |
