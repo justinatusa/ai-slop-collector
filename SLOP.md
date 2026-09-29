@@ -333,6 +333,7 @@
 
 ## 隐喻
 
-- **钉 / 钉死 / 钉子 / 钉子域** — [`patterns/`](patterns/)
-- **臂 / 长臂** — [`patterns/`](patterns/)
+- **钉死** — [来源](https://sspai.com/post/111975) · 另见 [说人话·暴力动作腔](https://github.com/MrGeDiao/shuorenhua/blob/main/evals/legacy-v2.4.1/references/operation-manual.md.txt)
+- **钉 / 钉住 / 钉子 / 钉子域 / 钉版本** — [`patterns/ding-metaphor.md`](patterns/ding-metaphor.md)（社区口癖元讨论仍薄；「钉死」见上）
+- **臂 / A臂 / 长臂 / 手臂** — [`patterns/bi-metaphor.md`](patterns/bi-metaphor.md)（本轮中文检索未找到口癖元讨论）
 
