@@ -23,6 +23,11 @@
 - 模式文件：`kebab-case.md`，例如 `fake-certainty.md`
 - 示例文件：`YYYY-MM-DD-short-note.md`
 
+## 调研索引
+
+- [sources/INDEX.md](sources/INDEX.md) — 带 URL 的 verbatim 摘录导航
+- `sources/scrapes/` — 按来源一文一文件
+
 ## 种子条目
 
 - [钉子域 / 假钉子隐喻](patterns/nail-domain-metaphor.md) — 你点名的一类
